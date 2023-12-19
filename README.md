@@ -47,4 +47,4 @@ A live demo of World Clone - https://chiqui-wordleclone.netlify.app Challenge yo
 This repository is currently not open for contributions. However, feel free to use the codebase as a reference or inspiration for similar projects.
 
 
-Thank you for reading, Enjoy the challenge of guessing the secret word within limited attempts!
+Thank you for reading, enjoy the challenge of guessing the secret word within limited attempts!
